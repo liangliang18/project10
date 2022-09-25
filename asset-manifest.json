@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.b6d0875a.css",
+    "main.js": "./static/js/main.c9978545.js",
+    "static/js/787.909be98e.chunk.js": "./static/js/787.909be98e.chunk.js",
+    "static/media/dot-grid.jpg": "./static/media/dot-grid.c18d167ec16747d50574.jpg",
+    "static/media/logo.jpg": "./static/media/logo.9032c32f0e6033a4c788.jpg",
+    "index.html": "./index.html",
+    "main.b6d0875a.css.map": "./static/css/main.b6d0875a.css.map",
+    "main.c9978545.js.map": "./static/js/main.c9978545.js.map",
+    "787.909be98e.chunk.js.map": "./static/js/787.909be98e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6d0875a.css",
+    "static/js/main.c9978545.js"
+  ]
+}
